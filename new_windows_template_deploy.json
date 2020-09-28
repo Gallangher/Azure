@@ -54,7 +54,7 @@
 
     "OSVersion": {
       "type": "string",
-      "defaultValue": "2016-Nano-Server",
+      "defaultValue": "2016-Datacenter",
       "allowedValues": [
         "2008-R2-SP1",
         "2012-Datacenter",
