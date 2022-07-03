@@ -1,0 +1,13 @@
+impacted host:  ACEAD-APP-T001
+impacted RG : RG_COMPUTE_MADP_OT
+
+weeklySchedule  
+{"type":"automatic","1":{"S":"6","E":"20"},"2":{"S":"6","E":"20"},"3":{"S":"6","E":"20"},"4":{"S":"6","E":"20"},"5":{"S":"6","E":"20"},"6":"off","0":"off"}
+
+bypassSchedule
+true/false
+
+
+bypassSchedule
+PatchSchedule-NonProd-2022
+
